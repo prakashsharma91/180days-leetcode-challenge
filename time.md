@@ -9,3 +9,6 @@
 | 160            | Intersection of Two Linked Lists               | E     | 10:30              |
 | 424            | Longest Repeating Character Replacement        | M     | 38:30              |
 | 1944           | Number of Visible People in a Queue            | H     | 39:30              |
+| 383            | Ransom note                                    | E     | 9:33               |
+| 36             | Valid Sudoku                                   | M     | 33:24              |
+| 42             | Trapping Rain Water                            | H     | 17:56              |
