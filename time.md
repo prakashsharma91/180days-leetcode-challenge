@@ -17,3 +17,4 @@
 | 25             | Reverse Nodes in k-Group                       | H     | 58:26              |
 | 303            | Range Sum Query - Immutable                    | E     | 11:34              |
 | 560            | Subarray Sum Equals K                          | M     | 65:26              |
+| 41             | First Missing Positive                         | H     | 50:40              |
