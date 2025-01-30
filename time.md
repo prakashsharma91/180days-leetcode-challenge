@@ -12,3 +12,8 @@
 | 383            | Ransom note                                    | E     | 9:33               |
 | 36             | Valid Sudoku                                   | M     | 33:24              |
 | 42             | Trapping Rain Water                            | H     | 17:56              |
+| 88             | Merge Sorted Array                             | E     | 12:09              |
+| 19             | Remove Nth Node From End of List               | M     | 25:26              |
+| 25             | Reverse Nodes in k-Group                       | H     | 58:26              |
+| 303            | Range Sum Query - Immutable                    | E     | 11:34              |
+| 560            | Subarray Sum Equals K                          | M     | 65:26              |
