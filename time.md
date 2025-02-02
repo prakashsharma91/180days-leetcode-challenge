@@ -21,3 +21,6 @@
 | 1512           | Number of Good Pairs                           | E     | 0     | 10:50              |
 | 128            | Longest Consecutive Sequence                   | M     | 0     | 19:30              |
 | 128            | Serialize and Deserialize Binary Tree          | H     | 1     | 37:30              |
+| 169            | Majority Element                               | E     | 0     | 5:03               |
+| 189            | RotateArray                                    | M     | 0     | 10:00              |
+| 843            | Guess The Word                                 | H     | 1     | 60:03              |
