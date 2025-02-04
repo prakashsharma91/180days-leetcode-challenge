@@ -24,3 +24,6 @@
 | 169            | Majority Element                               | E     | 0     | 5:03               |
 | 189            | RotateArray                                    | M     | 0     | 10:00              |
 | 843            | Guess The Word                                 | H     | 1     | 60:03              |
+| 392            | Is Subsequence                                 | E     | 0     | 16:02              |
+| 6              | Zigzag Conversion                              | M     | 0     | 15:02              |
+| 30             | Substring with Concatenation of All Words      | H     | 0     | 30:02              |
