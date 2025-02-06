@@ -27,3 +27,6 @@
 | 392            | Is Subsequence                                 | E     | 0     | 16:02              |
 | 6              | Zigzag Conversion                              | M     | 0     | 15:02              |
 | 30             | Substring with Concatenation of All Words      | H     | 0     | 30:02              |
+| 26             | Remove Duplicates from Sorted Array            | E     | 0     | 5:32               |
+| 238            | Product of Array Except Self                   | M     | 0     | 16:32              |
+| 76             | Minimum Window Substring                       | H     | 1     | 90:00              |
