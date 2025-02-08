@@ -30,3 +30,6 @@
 | 26             | Remove Duplicates from Sorted Array            | E     | 0     | 5:32               |
 | 238            | Product of Array Except Self                   | M     | 0     | 16:32              |
 | 76             | Minimum Window Substring                       | H     | 1     | 90:00              |
+| 121            | Best Time to Buy and Sell Stock                | E     | 0     | 12:15              |
+| 122            | 122. Best Time to Buy and Sell Stock II        | M     | 0     | 3:43               |
+| 84             | Largest Rectangle in Histogram                 | H     | 0     | 46:20              |
