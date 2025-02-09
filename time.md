@@ -33,3 +33,6 @@
 | 121            | Best Time to Buy and Sell Stock                | E     | 0     | 12:15              |
 | 122            | 122. Best Time to Buy and Sell Stock II        | M     | 0     | 3:43               |
 | 84             | Largest Rectangle in Histogram                 | H     | 0     | 46:20              |
+| 125            | Valid Palindrome                               | E     | 0     | 9:0                | 
+| 2348           | Number of Zero-Filled Subarrays                | M     | 0     | 10:25              | 
+| 239            | Sliding Window Maximum                         | H     | 0     | 28:04              |
