@@ -36,3 +36,6 @@
 | 125            | Valid Palindrome                               | E     | 0     | 9:0                | 
 | 2348           | Number of Zero-Filled Subarrays                | M     | 0     | 10:25              | 
 | 239            | Sliding Window Maximum                         | H     | 0     | 28:04              |
+| 14             | Longest Common Prefix                          | E     | 0     | 8:18               | 
+| 334            | Increasing Triplet Subsequence                 | M     | 0     | 7:34               |
+| 1499           | Max Value of Equation                          | H     | 1     | 26:29              |
