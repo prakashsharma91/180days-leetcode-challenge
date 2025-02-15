@@ -41,3 +41,4 @@
 | 1499           | Max Value of Equation                          | H     | 1     | 26:29              |
 | 136            | Single Number                                  | E     | 0     | 3:53               |
 | 201.           | Bitwise AND of Numbers Range                   | M     | 1     | 23:40              |
+| 151            | Reverse Words in a String                      | M     | 1     | 9:34               |
