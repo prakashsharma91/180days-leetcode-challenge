@@ -42,3 +42,6 @@
 | 136            | Single Number                                  | E     | 0     | 3:53               |
 | 201.           | Bitwise AND of Numbers Range                   | M     | 1     | 23:40              |
 | 151            | Reverse Words in a String                      | M     | 1     | 9:34               |
+| 338            | Counting Bits                                  | E     | 0     | 8:55               |
+| 191            | Number of 1 Bits                               | E     | 0     | 3:39               |
+| 260            | Single Number III                              | M     | 0     | 17:41              |
