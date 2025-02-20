@@ -45,3 +45,5 @@
 | 338            | Counting Bits                                  | E     | 0     | 8:55               |
 | 191            | Number of 1 Bits                               | E     | 0     | 3:39               |
 | 260            | Single Number III                              | M     | 0     | 17:41              |
+| 190            | Reverse Bits                                   | E     | 0     | 10:0               |
+| 371            | Sum of Two Integers                            | M     | 1     | 53:25              |
