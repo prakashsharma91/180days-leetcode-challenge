@@ -47,3 +47,7 @@
 | 260            | Single Number III                              | M     | 0     | 17:41              |
 | 190            | Reverse Bits                                   | E     | 0     | 10:0               |
 | 371            | Sum of Two Integers                            | M     | 1     | 53:25              |
+| 1189           | Maximum Number of Balloons                     | E     | 0     | 4:00               |
+| 535            | Encode and Decode TinyURL                      | M     | 0     | 15:00              |
+| 49             | Group Anagrams                                 | M     | 0     | 14:23              |
+| 706            | Design HashMap                                 | E     | 0     | 4:55               |
