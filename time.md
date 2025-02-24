@@ -51,3 +51,5 @@
 | 535            | Encode and Decode TinyURL                      | M     | 0     | 15:00              |
 | 49             | Group Anagrams                                 | M     | 0     | 14:23              |
 | 706            | Design HashMap                                 | E     | 0     | 4:55               |
+| 205            | Isomorphic Strings                             | E     | 0     | 12:00              |
+| 219            | Contains Duplicate II                          | E     | 0     | 19:24              |
