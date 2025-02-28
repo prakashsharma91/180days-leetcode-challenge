@@ -53,3 +53,6 @@
 | 706            | Design HashMap                                 | E     | 0     | 4:55               |
 | 205            | Isomorphic Strings                             | E     | 0     | 12:00              |
 | 219            | Contains Duplicate II                          | E     | 0     | 19:24              |
+| 767            | Reorganize String                              | M     | 0     | 32:19              |
+| 438            | Find All Anagrams in a String                  | M     | 0     | 15:32              |
+| 643            | Maximum Average Subarray I                     | E     | 0     | 10:45              |
