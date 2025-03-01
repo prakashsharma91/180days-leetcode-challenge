@@ -18,7 +18,6 @@ class `219-ContainsDuplicateII` {
             if ( map.size > k ){
                 map.remove(nums[left])
                 left++
-                println("removed")
             }
         }
         return false

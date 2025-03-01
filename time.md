@@ -56,3 +56,6 @@
 | 767            | Reorganize String                              | M     | 0     | 32:19              |
 | 438            | Find All Anagrams in a String                  | M     | 0     | 15:32              |
 | 643            | Maximum Average Subarray I                     | E     | 0     | 10:45              |
+| 234            | Palindrome Linked List                         | E     | 0     | 1:11:41            |
+| 206            | Reverse Linked List                            | E     | 0     | 1:00               |
+| 92             | Reverse Linked List II                         | M     | 0     | 51:43              |
