@@ -59,3 +59,6 @@
 | 234            | Palindrome Linked List                         | E     | 0     | 1:11:41            |
 | 206            | Reverse Linked List                            | E     | 0     | 1:00               |
 | 92             | Reverse Linked List II                         | M     | 0     | 51:43              |
+| 659            | Split Array into Consecutive Subsequences      | M     | 1     | 60:00              |
+| 846            | Hand of Straights                              | M     | 0     | 10:00              |
+| 792            | Number of Matching Subsequences                | M     | 0     | 9:00               |

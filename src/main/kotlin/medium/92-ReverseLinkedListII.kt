@@ -23,10 +23,10 @@ class `92-ReverseLinkedListII` {
     fun reverse(prev: ListNode, end: ListNode?){
         var prev = prev
         val start = prev.next
-        while(start.next !== end) {
-            val nextNode = start.next
-            start.next = nextNode.next
-            nextNode.next = prev.next
+        while(start?.next !== end) {
+            val nextNode = start?.next
+            start?.next = nextNode?.next
+            nextNode?.next = prev.next
             prev.next = nextNode
         }
     }
