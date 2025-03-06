@@ -63,3 +63,6 @@
 | 846            | Hand of Straights   (similar 659)              | M     | 0     | 10:00              |
 | 792            | Number of Matching Subsequences                | M     | 0     | 9:00               |
 | 1525           | Number of Good Ways to Split a String          | M     | 0     | 11:00              |
+| 167            | Two Sum II - Input Array Is Sorted             | M     | 1     | 30:00              |
+| 11             | Container With Most Water                      | M     | 0     | 10:00              |
+| 525            | ContiguousArray                                | M     | 0     | 30:00              |
